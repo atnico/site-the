@@ -88,7 +88,7 @@ section{
 =========================================================*/
 
 header{
-    background-image:linear-gradient( rgba(0,242,96,0.4), rgba(7,117,230,0.6)), url(/Users/nicolasatayi/Desktop/courshtml-css-bootstrap/ressources/images/header2.png);
+    background-image:linear-gradient( rgba(0,242,96,0.4), rgba(7,117,230,0.6)), url(./ressources/images/header2.png);
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -215,7 +215,7 @@ header{
 ===========================================================================*/
 
 .clients{
-    background-image: linear-gradient( rgba(0,242,96,0.4), rgba(7,117,230,0.6)), url(/Users/nicolasatayi/Desktop/courshtml-css-bootstrap/ressources/images/the-paysage.jpg);
+    background-image: linear-gradient( rgba(0,242,96,0.4), rgba(7,117,230,0.6)), url(./ressources/images/the-paysage.jpg);
     background-size: cover;
     background-attachment: fixed;
     
